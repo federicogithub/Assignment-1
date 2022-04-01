@@ -2,5 +2,7 @@
 2009997
 
 ### COMPONENTI
-./processori.md
-./schede_madri.md
+./componenti/processori.md
+./componenti/schede_madri.md
+
+Elettronica Padovana
