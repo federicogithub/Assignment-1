@@ -5,4 +5,6 @@
 ./componenti/processori.md
 ./componenti/schede_madri.md
 
+### PERIFERICHE
+
 Elettronica Padovana
